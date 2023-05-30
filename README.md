@@ -15,47 +15,34 @@
 
 </p>
 
+<h3 align="center">Programming Languages:</h3> 
 
 
-<p>
-    <div style="display: flex;">
-        <div style="flex: 1;">
-            <!-- Content for the first column -->
-            <h3 align="center">Programming Languages:</h3> 
-            <p align="center">
-                <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="30" height="30"/> 
-                <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="30" height="30"/>
-                <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/>
-                <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="30" height="30"/> 
-                <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="30" height="30"/> 
-                <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="android" width="30" height="30"/> 
-                <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="30" height="30"/> 
-                <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberrypi" width="30" height="30"/> 
-            </p>
-            <p align="center">
-                <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="30" height="30"/> 
-                <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="30" height="30"/> 
-                <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="30" height="30"/> 
-                <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="js" width="30" height="30"/> 
-                <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="30" height="30"/>
-            </p>
-        </div>
-        <div style="flex: 1;">
-            <!-- Content for the second column -->
-            <h3 align="center">Programming Tools & Editors:</h3>
-            <p align="center">
-                <img src="https://seeklogo.com/images/P/pycharm-logo-51B1427388-seeklogo.com.png" alt="pycharm" width="30" height="30"/>
-                <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="30" height="30"/>
-                <img src="https://www.vectorlogo.zone/logos/atom_io/atom_io-icon.svg" alt="atom" width="30" height="30"/>
-                <img src="https://upload.vectorlogo.zone/logos/android_studio/images/bc43bbac-e239-4ae9-829a-9809e57a8bc0.svg" alt="android_studio" width="30" height="30"/> 
-                
-                <img src="https://elementor.com/marketing/wp-content/uploads/2021/10/Elementor-Logo-Symbol-Red.png" alt=elementor" width="30" height="30"/> 
-            </p>
-        </div>
-    </div>
-    </p>
+<p align="center">
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="30" height="30"/> 
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="30" height="30"/>
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/>
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="30" height="30"/> 
+    <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="30" height="30"/> 
+    <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="android" width="30" height="30"/> 
+    <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="30" height="30"/> 
+    <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberrypi" width="30" height="30"/> 
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="30" height="30"/> 
+    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="30" height="30"/> 
+    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="30" height="30"/> 
+    <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="js" width="30" height="30"/> 
+    <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="30" height="30"/>
+</p>
 
-
+<h3 align="center">Programming Tools & Editors:</h3>
+<p align="center">
+    <img src="https://seeklogo.com/images/P/pycharm-logo-51B1427388-seeklogo.com.png" alt="pycharm" width="30" height="30"/>
+    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="30" height="30"/>
+    <img src="https://www.vectorlogo.zone/logos/atom_io/atom_io-icon.svg" alt="atom" width="30" height="30"/>
+    <img src="https://upload.vectorlogo.zone/logos/android_studio/images/bc43bbac-e239-4ae9-829a-9809e57a8bc0.svg" alt="android_studio" width="30" height="30"/> 
+    
+    <img src="https://elementor.com/marketing/wp-content/uploads/2021/10/Elementor-Logo-Symbol-Red.png" alt=elementor" width="30" height="30"/> 
+</p>
 
 
 <h3 align="center">Desing & Video Tools:</h3>
