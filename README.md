@@ -17,7 +17,7 @@
 
 
 
-
+<p>
     <div style="display: flex;">
         <div style="flex: 1;">
             <!-- Content for the first column -->
@@ -53,7 +53,7 @@
             </p>
         </div>
     </div>
-    
+    </p>
 
 
 
